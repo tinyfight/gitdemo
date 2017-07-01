@@ -29,3 +29,4 @@ NavigationBar
 ##Thanks
 *   [SystemBarTint](https://github.com/jgilfelt/SystemBarTint)
 *   [StatusBarUtil](https://github.com/laobie/StatusBarUtil)
+*   panyao
